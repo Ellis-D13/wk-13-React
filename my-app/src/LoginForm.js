@@ -1,5 +1,5 @@
 import React from 'react'; //inport the react library
-import './LoginForm.css'; //import the CSS to style my components
+import './LoginForm.css'; //import the CSS 
 
 //define the loginForm as a functional component 
 const LoginForm = () => { 
